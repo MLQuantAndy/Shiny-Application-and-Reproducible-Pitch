@@ -40,7 +40,8 @@ total_calories
 
 ## The Shiny Application
 - The application can be found at:
+https://amanbamrah.shinyapps.io/Calories-Calculator/
 
 - The source code can be found at:
-
+https://github.com/amancolumbia/Shiny-Application-and-Reproducible-Pitch
 
